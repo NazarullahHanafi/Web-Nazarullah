@@ -1,0 +1,2 @@
+# Web-Nazarullah
+Quran.api
